@@ -1,0 +1,9 @@
+chromadb
+langchain
+matplotlib
+openai
+plotly
+pypdf
+python-dotenv
+streamlit
+tiktoken
