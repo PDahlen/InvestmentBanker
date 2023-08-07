@@ -4,6 +4,8 @@ Investment Banker in a Box
 
 **Disclaimer: This is a prototype and should not be used as financial advise**
 
+Article on [LinkedIn](https://www.linkedin.com/posts/pdahlen_azure-llama2-falcon-activity-7094186280019738624-pSgE)
+
 Use case for using LLM in acting as an investment banker and analysing financial statements.
 
 So far this is a prototype, more like an assistant than a banker, but is shows the great potential with
@@ -28,3 +30,5 @@ What will you get? Your own Investment Banker in a Box?
 Start the application with
 
     streamlit run app.py
+
+The test file is Apples annual report from 2022.

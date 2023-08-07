@@ -41,7 +41,9 @@ def get_response(prompt):
         top_p=0.95,
         frequency_penalty=0,
         presence_penalty=0,
-        stop=None
+        stop=None,
+        request_timeout=3600,
+        timeout=3600
     )
 
 starting_tic = time.perf_counter()
